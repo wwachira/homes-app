@@ -18,3 +18,8 @@
 - Run the application 
 
   `ng serve`
+
+  ## git remote set-url origin https://github.com/username/repo-name.git 
+use the above to reset your terminal if it brings an error of your original: git remote add origin https://github.com/username/repo-name.git
+then push using below command
+## git push -u origin main
