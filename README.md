@@ -19,7 +19,9 @@
 
   `ng serve`
 
-  ## git remote set-url origin https://github.com/username/repo-name.git 
-use the above to reset your terminal if it brings an error of your original: git remote add origin https://github.com/username/repo-name.git
+  ## Incase of challenges setting up your local directory
+  (To push a project from your local machine [using eg VS Code] to GitHub)
+- git remote set-url origin https://github.com/username/repo-name.git 
+use the above to reset your terminal if it brings an error of your local: git remote add origin https://github.com/username/repo-name.git
 then push using below command
-## git push -u origin main
+- git push -u origin main
