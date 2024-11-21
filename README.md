@@ -19,6 +19,9 @@
 
   `ng serve`
 
+  `ng generate components Home --standalone --inline-template 
+`
+
   ## Incase of challenges setting up your local directory
   (To push a project from your local machine [using eg VS Code] to GitHub)
 - git remote set-url origin https://github.com/username/repo-name.git 
